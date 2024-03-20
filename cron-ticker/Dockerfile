@@ -13,5 +13,3 @@ RUN npm install
 
 #Comando run de la imagen
 CMD [ "node", "app.js" ]
-
-
